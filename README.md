@@ -15,7 +15,7 @@ Teesside University
 B.A linguistics 
 University of Ilorin
 
-CV 
+## CV 
 
 ### Machine learning with Python
 ### Machine learning with R
