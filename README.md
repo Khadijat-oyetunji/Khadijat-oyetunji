@@ -14,6 +14,15 @@ Teesside University
 
 B.A linguistics 
 University of Ilorin
+
+CV 
+
+### Machine learning with Python
+### Machine learning with R
+### Business Intelligence 
+### Excel
+### Tableau
+
 <!---
 Khadijat-oyetunji/Khadijat-oyetunji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
