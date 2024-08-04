@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Khadijat-oyetunji
-- 👀 I’m interested in Data Analyst Roles
-- 🌱 I’m currently working on personal projects
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me @ khadeejah.oyetunji1@gmail.com
-- 😄 Pronouns: she/her
+-  Hi, I’m @Khadijat-oyetunji
+-  I’m interested in Data Analyst Roles
+-  I’m currently working on personal projects
+-  I’m looking to collaborate on interesting projects
+-  How to reach me @ khadeejah.oyetunji1@gmail.com
+-  Pronouns: she/her
   
 
 
