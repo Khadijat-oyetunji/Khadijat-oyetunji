@@ -9,10 +9,10 @@
 
 ## EDUCATION
 
-MSc Applied Data Science 
+MSc Applied Data Science -
 Teesside University
 
-B.A linguistics 
+B.A linguistics -
 University of Ilorin
 
 ## CV 
